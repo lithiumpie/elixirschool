@@ -4,7 +4,7 @@
 
 可以從 [ElixirSchool.com](https://elixirschool.com) 進入課程。
 
-_我們誠摯鼓勵參與和給予回饋！有關如何參與的更多詳細資訊，請參見 [貢獻] 頁面(CONTRIBUTING.md)_
+_我們誠摯鼓勵參與和給予回饋！有關如何參與的更多詳細資訊，請參見 [貢獻](CONTRIBUTING.md)_ 頁面
 
 ### 本機端執行
 
