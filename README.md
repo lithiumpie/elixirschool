@@ -81,11 +81,15 @@ Anonymous Functions（匿名函數）
 
 Anagrams（回文構詞字串）
 
+archivable（可封存）
+
 argument（引數）
 
 arity（引數個數、引數數目）
 
 Arithmetic（算術運算）
+
+Artifact（加工品）
 
 associative collections（關聯群集）
 
@@ -93,9 +97,15 @@ atom
 
 # B
 
+Basics（基礎）
+
+background（背景）
+
 benchmark（基準測試）
 
 best fit（最佳擬合）
+
+bytecode（位元組碼）
 
 binding（綁定）
 
@@ -105,11 +115,15 @@ boilerplate（樣板）
 
 Booleans（布林）
 
+boot（啟動）
+
 bytes（位元組）
 
 building block（構建區塊）
 
 # C
+
+cache（快取）
 
 called（呼用）
 
@@ -143,13 +157,19 @@ console（控制台）
 
 concurrency（並行性）
 
+connect（連接）
+
+commands（指令）
+
+command line（命令列）
+
 compile（編譯）
 
 Compilation（編譯）
 
 Composition（合成）
 
-comprehensions（解析）
+comprehensions（解析）
 
 curly braces（大括號）
 
@@ -158,6 +178,10 @@ custom（自訂）
 configure（設置）
 
 Configuration（配置）
+
+crash（當機）
+
+create（建立）
 
 # D
 
@@ -171,7 +195,9 @@ Default Arguments（預設引數值）
 
 dependencies（相依性、~~耦合性~~）
 
-development（開發）
+deployed（部署）
+
+development（開發、開發環境）
 
 dequeue（出列）
 
@@ -183,7 +209,9 @@ distributed（分散式）
 
 distill（精煉）
 
-documentation（文檔）
+downgrades（降級）
+
+documentation（文件）
 
 Duration（持續時間）
 
@@ -202,6 +230,8 @@ environment（系統環境）
 
 enqueue（排隊）
 
+endpoint（端點）
+
 escaping（轉義）
 
 evaluate（回傳）
@@ -216,10 +246,16 @@ Extensible（可延伸）
 
 extendable（可擴展）
 
+extensions（擴充）
+
 
 # F
 
 Fault-tolerant（故障容錯）
+
+file（檔案）
+
+foreground（前景）
 
 folder structure（資料夾結構）
 
@@ -245,9 +281,9 @@ function head（函數標頭）
 
 # G
 
-generator（生成器）
+generator（產生器、~~生成器~~）
 
-generation（生成）
+generation（產生、~~生成~~）
 
 Getting Started（入門）
 
@@ -263,6 +299,10 @@ guard clauses（監視子句）
 
 hexadecimal（十六進位）
 
+helper（輔助）
+
+hooks（鉤子）
+
 # I
 
 implementation（實現）
@@ -272,6 +312,8 @@ import（導入）
 Interoperability（互用性）
 
 input set（輸入集）
+
+installation（安裝）
 
 Integers（整數）
 
@@ -321,6 +363,8 @@ load（載入）
 
 # M
 
+manager（管理工具）
+
 maximal value（最大值）
 
 macros（巨集）
@@ -328,6 +372,12 @@ macros（巨集）
 macro hygiene（巨集衛生）
 
 maintaining state（持續狀態）
+
+metadata（後設資料）
+
+Metaprogramming（超編程）
+
+migrate（遷移）
 
 minimal value（最小值）
 
@@ -357,6 +407,8 @@ nested （巢狀的）
 Nesting（巢套）
 
 notation（符號）
+
+node（節點）
 
 # O
 
@@ -390,6 +442,8 @@ polymorphism（多型）
 
 pointy brackets（尖括號）
 
+prerequisite（前置作業）
+
 private（保密）
 
 Private Functions（私有函數）
@@ -397,6 +451,10 @@ Private Functions（私有函數）
 private macros（私有巨集）
 
 print（輸出）
+
+project（專案）
+
+Production（正式環境）
 
 port（連接埠）
 
@@ -412,6 +470,8 @@ rebinding（重新綁定）
 
 refactor（重構）
 
+Remote Produce Call（遠端程式呼叫）
+
 repository（儲存庫）
 
 reserved attributes（保留屬性）
@@ -419,6 +479,8 @@ reserved attributes（保留屬性）
 recursion （遞迴）
 
 Regular Expressions（正規表達式）
+
+release（發布）
 
 revaluations（重新估值）
 
@@ -434,9 +496,17 @@ Scalable（可擴充）
 
 scenario（情境）
 
+scripts
+
 scope（範圍）
 
 sensitivity（敏感）
+
+seed（播種）
+
+set up（設定）
+
+shell（殼層）
 
 Shorthand（簡寫符號）
 
@@ -474,7 +544,7 @@ subset（子集）
 
 syntax（語法）
 
-syntactic sugar（語法糖）
+syntactic sugar（語法糖）
 
 # T
 
@@ -488,11 +558,19 @@ tuple（元組）
 
 task（工作）
 
+tarball（壓縮檔）
+
+terminal（終端機）
+
 # U
+
+Umbrella（保護傘）
 
 underscore（下底線）
 
 Uppercase（大寫）
+
+upgrades（升級）
 
 utility application（公用程式）
 
