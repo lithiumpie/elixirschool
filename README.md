@@ -34,6 +34,10 @@ _我們誠摯鼓勵參與和給予回饋！有關如何參與的更多詳細資�
 
 3. 將譯文以 PR 提交，並把你自己加進 https://elixirschool.com/contributors/ 名單中。
 
+    - PR, Commit 標題請加上分類標籤 `[zh-hant]` [PR 範例](https://github.com/elixirschool/elixirschool/pull/1844)
+
+    - 譯文行數對齊 [EN 版本](https://elixirschool.com/en/)，方便日後更新。
+
 
 # 繁體中文翻譯指引
 
