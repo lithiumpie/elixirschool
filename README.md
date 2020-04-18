@@ -97,6 +97,8 @@ Artifact（加工品）
 
 associative collections（關聯群集）
 
+assertion（斷言）
+
 atom
 
 # B
@@ -138,6 +140,8 @@ Character（字元）
 Char List（符號列表）
 
 Char Lists（字元列表）
+
+clauses（子句）
 
 Codepoints（碼位）
 
@@ -191,11 +195,15 @@ create（建立）
 
 Data Types（資料型別）
 
+debug（除錯）
+
 declare（宣告）
 
 default（預設）
 
 Default Arguments（預設引數值）
+
+delegate（委派）
 
 dependencies（相依性、~~耦合性~~）
 
@@ -222,6 +230,8 @@ Duration（持續時間）
 
 # E
 
+edge cases（邊界案例）
+
 empowering（賦與）
 
 Enum（列舉）
@@ -240,6 +250,8 @@ escaping（轉義）
 
 evaluate（回傳）
 
+example-based（基於案例）
+
 expensive（耗時）
 
 exceptions（異常）
@@ -256,6 +268,8 @@ extensions（擴充）
 # F
 
 Fault-tolerant（故障容錯）
+
+features（功能）
 
 file（檔案）
 
@@ -301,6 +315,8 @@ guard clauses（監視子句）
 
 # H
 
+happy path（正常情境）
+
 hexadecimal（十六進位）
 
 helper（輔助）
@@ -309,7 +325,7 @@ hooks（鉤子）
 
 # I
 
-implementation（實現）
+implementation（實作、~~實現~~）
 
 import（導入）
 
@@ -318,6 +334,8 @@ Interoperability（互用性）
 input set（輸入集）
 
 installation（安裝）
+
+installation instructions（安裝指示）
 
 Integers（整數）
 
@@ -426,6 +444,8 @@ overloads（重載）
 
 # P
 
+Pattern（模式）
+
 Pattern Matching（模式比對）
 
 performs assignment（執行賦值）
@@ -464,6 +484,12 @@ port（連接埠）
 
 processes（處理程序）
 
+property（屬性）
+
+property-based（基於屬性）
+
+pseudocode（虛擬碼）
+
 # Q
 
 queue（佇列）
@@ -479,6 +505,8 @@ Remote Produce Call（遠端程式呼叫）
 repository（儲存庫）
 
 reserved attributes（保留屬性）
+
+return（傳回）
 
 recursion （遞迴）
 
@@ -506,6 +534,8 @@ scope（範圍）
 
 sensitivity（敏感）
 
+sequences（序列）
+
 seed（播種）
 
 set up（設定）
@@ -513,6 +543,8 @@ set up（設定）
 shell（殼層）
 
 Shorthand（簡寫符號）
+
+shrink （縮小）
 
 signatures（簽章）
 
@@ -546,6 +578,8 @@ stopgap（暫時）
 
 subset（子集）
 
+Summary（總結）
+
 syntax（語法）
 
 syntactic sugar（語法糖）
@@ -566,6 +600,8 @@ tarball（壓縮檔）
 
 terminal（終端機）
 
+type（型別）
+
 # U
 
 Umbrella（保護傘）
@@ -577,6 +613,8 @@ Uppercase（大寫）
 upgrades（升級）
 
 utility application（公用程式）
+
+utility function（公用程式）
 
 use（呼用）
 
