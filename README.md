@@ -83,6 +83,8 @@ alternative （替代）
 
 Anonymous Functions（匿名函數）
 
+Annotation（註解）
+
 Anagrams（回文構詞字串）
 
 archivable（可封存）
@@ -159,7 +161,7 @@ constants（常數）
 
 cons operator（cons 運算子）
 
-convention（慣例）
+convention（慣例、約定）
 
 console（控制台）
 
@@ -170,6 +172,8 @@ connect（連接）
 commands（指令）
 
 command line（命令列）
+
+community（社群）
 
 compile（編譯）
 
@@ -225,6 +229,8 @@ downgrades（降級）
 
 documentation（文件）
 
+Documenting Modules（模組內註解）
+
 Duration（持續時間）
 
 
@@ -245,6 +251,8 @@ environment（系統環境）
 enqueue（排隊）
 
 endpoint（端點）
+
+Error Handling（錯誤處理）
 
 escaping（轉義）
 
@@ -330,6 +338,8 @@ implementation（實作、~~實現~~）
 import（導入）
 
 Interoperability（互用性）
+
+Inline Documentation（行內註解）
 
 input set（輸入集）
 
