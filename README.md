@@ -59,6 +59,8 @@ _我們誠摯鼓勵參與和給予回饋！有關如何參與的更多詳細資�
 
 - [國家教育研究院雙語詞彙、學術名詞暨辭書資訊網](http://terms.naer.edu.tw/)
 
+- [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/cbdic/)
+
 ### 譯文格式參考
 
 - [維基百科:翻譯腔](https://zh.wikipedia.org/wiki/Wikipedia:%E7%BF%BB%E8%AF%91%E8%85%94)
@@ -108,6 +110,8 @@ atom
 Basics（基礎）
 
 background（背景）
+
+back-pressure（背壓）
 
 benchmark（基準測試）
 
@@ -183,6 +187,8 @@ Composition（合成）
 
 comprehensions（解析）
 
+consumer（消費者）
+
 curly braces（大括號）
 
 custom（自訂）
@@ -252,11 +258,15 @@ enqueue（排隊）
 
 endpoint（端點）
 
+explicit（顯式）
+
 Error Handling（錯誤處理）
 
 escaping（轉義）
 
 evaluate（回傳）
+
+examples（範例）
 
 example-based（基於案例）
 
@@ -264,7 +274,7 @@ expensive（耗時）
 
 exceptions（異常）
 
-expression（陳述式）
+expression（表達式、~~陳述式~~）
 
 Extensible（可延伸）
 
@@ -279,6 +289,8 @@ Fault-tolerant（故障容錯）
 
 features（功能）
 
+fields（欄位）
+
 file（檔案）
 
 foreground（前景）
@@ -291,7 +303,7 @@ Functional Programming（函數式程式設計）
 
 functionality（功能）
 
-fetch（獲取）
+fetch（擷取、~~獲取~~）
 
 Filters（篩選器）
 
@@ -448,9 +460,13 @@ octal（八進位）
 
 operator（運算子）
 
+optional（可選的）
+
 order（序列）
 
 overloads（重載）
+
+over-pressure（超壓）
 
 # P
 
@@ -488,7 +504,11 @@ print（輸出）
 
 project（專案）
 
+producer（生產者）
+
 Production（正式環境）
+
+protocol（協定）
 
 port（連接埠）
 
@@ -504,6 +524,10 @@ pseudocode（虛擬碼）
 
 queue（佇列）
 
+queries（查詢）
+
+queryable（可查詢）
+
 # R
 
 rebinding（重新綁定）
@@ -516,7 +540,7 @@ repository（儲存庫）
 
 reserved attributes（保留屬性）
 
-return（傳回）
+return（回傳、~~傳回~~）
 
 recursion （遞迴）
 
@@ -566,7 +590,11 @@ sigils（符咒）
 
 sigil space（符咒空間）
 
+sink（匯）
+
 sort（排序）
+
+source（源）
 
 spawned（衍生）
 
