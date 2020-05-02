@@ -129,6 +129,8 @@ Booleans（布林）
 
 boot（啟動）
 
+breakpoint（斷點）
+
 bytes（位元組）
 
 building block（構建區塊）
@@ -158,6 +160,8 @@ collection（集合）
 collectables（可群集）
 
 Comparison（比較運算）
+
+computations（運算）
 
 Control Structures（控制語句）
 
@@ -348,6 +352,8 @@ hooks（鉤子）
 implementation（實作、~~實現~~）
 
 import（導入）
+
+immutability（不可變）
 
 Interoperability（互用性）
 
